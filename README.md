@@ -61,3 +61,5 @@ R
 install.packages("tidyverse")
 library(tidyverse)
 ```
+
+You can also have codes within your text like this:`echo hello world!`
