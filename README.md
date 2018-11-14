@@ -28,10 +28,13 @@ The / key is used as an escape key, so to type /* on its own, need to lead it wi
 
 You can combine both **bold** and *italics* by using a combination of underscores and asterisks: **_Like this_** 
 
-# Line Ruling
+# Line Ruling 
+
 You can rule lines like this
----
+- - -
 
 Or like this 
 ___
+Or like this
+***
 
