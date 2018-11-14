@@ -38,3 +38,26 @@ ___
 Or like this
 ***
 
+# To start a new line
+
+Need to leave a space. So, hit enter twice. Otherwise it wraps around.
+I.e. like this
+
+# Quotes and Code Blocks
+## Quotes
+> To add quotes, use a greater than sign:
+
+This is a multi-line quote
+
+> Here is some multi-line quotes
+
+> Another line
+
+## Code Block
+
+To make a code block in your text, use three backticks:
+```
+R
+install.packages("tidyverse")
+library(tidyverse)
+```
