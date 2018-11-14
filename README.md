@@ -63,3 +63,11 @@ library(tidyverse)
 ```
 
 You can also have codes within your text like this:`echo hello world!`
+
+# Tables
+
+You can make simple tables by using the pipe symbol and minus signs:
+|Column 1 | Column 2 | Column 3|
+|:---------|:----------|:---------|
+|Item 1 | Item 2| Item 3|
+|**Bold**| *Italics*|`code`|
